@@ -9,5 +9,3 @@ Steps:
   
   dashboard : https://lookerstudio.google.com/reporting/4e254e45-f256-45e5-86ef-efda8043111e/page/p_ny3k5ko83c
   
-  
-  ![Captura de Tela 2023-03-14 às 23 45 16](https://user-images.githubusercontent.com/75636177/225194134-f353210a-d8f6-484f-b767-1c692caff284.png)
